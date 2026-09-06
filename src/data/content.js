@@ -19,6 +19,7 @@ const poemLines = [
   ['The Blue Teacup', 'Hugh Carlisle', 'A chip along its rim is where / the old conversation enters.', 'Memory', 'An heirloom cup carries the intimacy of voices that have long since gone quiet.'],
   ['Sonnet for an Empty Theatre', 'Marian Blythe', 'The curtain held its breath above / a kingdom made of dust.', 'Gothic', 'The deserted stage becomes a spellbinding chamber where past applause still gathers.'],
   ['The Evening Post', 'Gerald Finch', 'By six, the ink had cooled to blue / and settled over every street.', 'City', 'A city evening, a newsboy, and a letter that arrives just when it is too late.'],
+  ['The Evening Post', 'Gerald Finch', 'By six, the ink had cooled to blue / and settled over every street.', 'City', 'A city evening, a newsboy, and a letter that arrives just when it is too late.'],
 ];
 
 export const poems = poemLines.map(([title, author, excerpt, , body], id) => ({ id, title, author, excerpt, body: `${body}\n\n${excerpt}\n\nAnd so the page, having kept its own counsel all day, opens at last to the reader’s hand. The world beyond it softens into lamplight, and the unspoken thing is permitted a name.` }));

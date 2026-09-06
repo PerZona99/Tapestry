@@ -1454,6 +1454,48 @@ footer > img {
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+}
+.modal.poem .modal-copy,
+.modal.prose .modal-copy {
+  max-height: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  mask-image: linear-gradient(
+    to bottom,
+    transparent 0%,
+    black 8%,
+    black 92%,
+    transparent 100%
+  );
+  -webkit-mask-image: linear-gradient(
+    to bottom,
+    transparent 0%,
+    black 8%,
+    black 92%,
+    transparent 100%
+  );
+  padding-right: 8px;
+}
+.modal.poem .modal-copy::-webkit-scrollbar,
+.modal.prose .modal-copy::-webkit-scrollbar {
+  width: 6px;
+}
+.modal.poem .modal-copy::-webkit-scrollbar-track,
+.modal.prose .modal-copy::-webkit-scrollbar-track {
+  background: transparent;
+}
+.modal.poem .modal-copy::-webkit-scrollbar-thumb,
+.modal.prose .modal-copy::-webkit-scrollbar-thumb {
+  background: #a89968;
+  border-radius: 3px;
+}
+.modal.poem .modal-copy::-webkit-scrollbar-thumb:hover,
+.modal.prose .modal-copy::-webkit-scrollbar-thumb:hover {
+  background: #8a7a52;
 }
 .modal.poem .modal-body,
 .modal.prose .modal-body {
@@ -1465,6 +1507,10 @@ footer > img {
   .modal.prose {
     height: 88vh;
     padding: 48px 38px 54px;
+  }
+  .modal.poem .modal-copy,
+  .modal.prose .modal-copy {
+    max-height: 100%;
   }
   .modal.poem .modal-body,
   .modal.prose .modal-body {
