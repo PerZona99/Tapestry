@@ -41,6 +41,6 @@ export const artworks = [
 ];
 
 export const films = [
-  { title: 'Wuthering Heights', year: '1939', director: 'William Wyler', starring: 'Merle Oberon, Laurence Olivier', thumbnail: '', trailerUrl: '', featureUrl: '', synopsis: 'Across the moors, the fierce bond between Catherine Earnshaw and Heathcliff bends love into a force of nature. A romantic tragedy of class, devotion, and the ghosts we make of one another.' },
-  { title: 'Jane Eyre', year: '1943', director: 'Robert Stevenson', starring: 'Joan Fontaine, Orson Welles', thumbnail: '', trailerUrl: '', featureUrl: '', synopsis: 'An orphaned governess arrives at Thornfield Hall and finds a fiercely guarded heart, a mystery in the attic, and the courage to insist upon her own freedom.' },
+  { title: 'Wuthering Heights', year: '2026', director: 'Thenula Nimsara & Hasini Ekanayake', starring: 'Merle Oberon, Laurence Olivier', thumbnail: '', trailerUrl: '', featureUrl: '', synopsis: 'Across the moors, the fierce bond between Catherine Earnshaw and Heathcliff bends love into a force of nature. A romantic tragedy of class, devotion, and the ghosts we make of one another.' },
+  { title: 'Jane Eyre', year: '2026', director: 'Thenula Nimsara & Hasini Ekanayake', starring: 'Joan Fontaine, Orson Welles', thumbnail: '', trailerUrl: 'XqDcuF5MIKo', featureUrl: '', synopsis: 'An orphaned governess arrives at Thornfield Hall and finds a fiercely guarded heart, a mystery in the attic, and the courage to insist upon her own freedom.' },
 ];
