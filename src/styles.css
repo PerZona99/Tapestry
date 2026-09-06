@@ -1468,17 +1468,19 @@ footer > img {
     to bottom,
     transparent 0%,
     black 8%,
-    black 92%,
+    black 96%,
     transparent 100%
   );
   -webkit-mask-image: linear-gradient(
     to bottom,
     transparent 0%,
     black 8%,
-    black 92%,
+    black 96%,
     transparent 100%
   );
   padding-right: 8px;
+  margin: 0 auto;
+  max-width: 85%;
 }
 .modal.poem .modal-copy::-webkit-scrollbar,
 .modal.prose .modal-copy::-webkit-scrollbar {
