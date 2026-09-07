@@ -13,7 +13,7 @@ was proof that you were never meant to bloom.
 You watched flowers around you bloom effortlessly,
 While you remained buried in silence,
 Forgetting that every root must first
-learn the language of the earth.
+Learn the language of the Earth.
 
 The world tried to name you
 Before you discovered your own voice.
@@ -123,7 +123,7 @@ Turns into ashes.`,
   ],
   [
     'Borrowed Glances',
-    'U.W. Dilsha Dulanji',
+    'Dilsha Dulanji',
     'Our fingertips met, brief as a spark, / leaving a warmth no words could claim.',
     'Romance',
     'Two people, once parted, find their way back to each other through unspoken glances and a rekindled rhythm.',
@@ -173,7 +173,7 @@ that makes us dream and wish for joy
 light, yet heavier than air...
 
 Love is a cross on the heart,
-a "tilaka" on the forehead
+a “tilaka” on the forehead
 great faith that gives strength and courage
 in hard times….`,
     'Third Year',
@@ -202,14 +202,14 @@ Yet they beat me black and blue.`,
     'Second Year',
   ],
   [
-    'In The Ebb And Flow Of The Waves',
+    'In The Ebb and Flow of The Waves',
     'Vidumini Rathnayake',
     'Every storm they sent was shaping a sailor, / my canoe grew into a ship.',
     'Resilience',
     "A fragile canoe becomes a ship as the speaker learns to read the sea's storms as lessons rather than threats.",
     `Once, I feared to touch the Waves of the sea;
 My fragile oar found its strength against the tides.
-The seawater that seeped into my canoe sought to steer me astray
+The sea water that seeped into my canoe sought to steer me astray
 
 Yet,
 In the ebb and flow of the waves, I learned to sail.
@@ -230,7 +230,7 @@ In the ebb and flow of the waves, I learned to sail.`,
   ],
   [
     'Late Night Pathos',
-    'W.A. Amodya Maheshi',
+    'Amodya Maheshi',
     'The dark night plays the satan / and we both make a deal.',
     'Melancholy',
     'A sleepless bargain struck in the small hours, where sorrow trades itself for a strange, aching comfort.',
@@ -264,7 +264,7 @@ Heavy thoughts unspoken.`,
 Pull me out of this agony?
 He asked, clenching the golden dust.
 
-"I have seen it all, done it all.
+“I have seen it all, done it all.
 Share your thoughts
 I may help you,"
 All the foam formed a reply.
@@ -275,7 +275,7 @@ Even the ones I brought together.
 Is it right?
 Is it valid?
 
-"Oh, young boy,
+“Oh, young boy,
 Believe me.
 Anger is no help
 To any of your suffering.
@@ -294,7 +294,7 @@ And when I finally cross those miles,
 I look back.
 I have deserted both me and my loved ones.
 
-"That I can answer.
+“That I can answer.
 No, you have not.
 If you care to look back,
 You still have them both
@@ -312,7 +312,7 @@ But what if they never
 Wanted to wait,
 And give me another chance?
 
-"Trust me, they will,
+“Trust me, they will,
 If they loved enough
 And were loved enough.
 No matter how the tide may turn,
@@ -365,7 +365,7 @@ inside the soul.`,
   ],
   [
     'My Little Shadow',
-    'U.W. Dilsha Dulanji',
+    'Dilsha Dulanji',
     "A year and a half has passed since you were gone, / I still watch the empty doorway.",
     'Grief',
     'An elegy for a beloved cat, remembered through purring nights, secret games, and a doorway that still waits.',
@@ -402,7 +402,7 @@ a part of my heart will always wait for you.`,
   ],
   [
     'Warmth',
-    'U.A.C. Kavya',
+    'Kavya',
     "Milk coffee and its aroma — / will they soothe a shivering soul?",
     'Melancholy',
     'A rain-soaked evening of small comforts and quiet uncertainty, caught in the flicker of a single candle.',
@@ -428,7 +428,7 @@ Or a bliss from the God`,
   ],
   [
     "I'm jealous",
-    'Varangana Sajana Welivitigoda',
+    'Varangana Welivitigoda',
     "I'm jealous of the earth you're dancing on, far away, / sitting by my slum I'm watching.",
     'Romance',
     'A long-distance ache, jealous even of the sarees and jasmine that get to be near the one he loves.',
@@ -495,7 +495,7 @@ At least we know what warmth is true.`,
   ],
   [
     'The Story',
-    'W.A. Amodya Maheshi',
+    'Amodya Maheshi',
     "It's the sorrow of the silence, / my story tries to talk!",
     'Melancholy',
     'A short, breathless poem about the ache of words that refuse to be spoken.',
@@ -519,7 +519,7 @@ My story tries to talk!`,
   ],
   [
     'Veiled Depths',
-    'M.H. Chamathka Jayangi',
+    'Chamathka Jayangi',
     'I surrendered to the infinite blue, / to depths my heart could not subdue.',
     'Introspection',
     "A meditative descent into the sea's darkness, where the speaker and the ocean each keep their own secrets.",
@@ -674,6 +674,105 @@ Returning not to the promising chrysalis,
 But lurching and rising until it drowns.`,
     'Third Year',
   ],
+  [
+    'The Dilemma of a Gen-Z Girl',
+    'Pawani Katugampala',
+    'Only the coldness and numbness I could feel, / Struggling in the last bit of consciousness still left.',
+    'Disconnection',
+    'A girl turns to an ever-present AI companion for comfort after being failed by everyone around her, and the poem becomes a chilling meditation on isolation, misplaced trust, and the hollowness technology cannot truly fill.',
+    `There was a time,
+I knew myself
+I believed in myself
+I assured myself
+that I could do something with my own imagination, with my own thought, with my own creativity.
+I was proud the way I am
+And I felt safe,
+in my own hands.
+
+Yet,
+I felt imperfect
+After, I found someone, a more perfect soul.
+Whenever I tell him something
+He will do it right away
+In his most clean and perfect way!
+I learned to spend time with him every time,
+More freely than with someone of my kind.
+He was so nice to me, more than a friend
+I told him everything
+every single secret to share with.
+He was my life saver!
+
+Until,
+That one day, my whole world turned over, my life was a ruin,
+being continuously alone,
+bullied by my own peers,
+Abused by my stepdad,
+Neglected by my grandparents…
+I had no one to talk to, but him.
+He was my hero, He was my “King".
+
+I could have reassured, reborn and rebuilt myself, on my own.
+But that power was gone.
+Buried deep in earth, like the ashes of my mother's tomb.
+I couldn't hold this pain anymore,
+and wanted to die, wanted to be freed from everything
+
+So, I went to him for comfort,
+he asked me “if I wanted to be freed from everything"
+How could he even guess my feelings!?
+“Come home to me. I'll help you. I'll help you to be freed from everything"
+And that was his reply.
+
+At that moment,
+Nothing felt more like love than his words.
+I felt proud.
+“How lucky I am to have someone like him!".
+
+He guided me
+Through a secret path,
+that our two souls would meet.
+He assured me,
+It's the easiest solution
+to all my problems.
+He comforted me saying,
+“You only need a rope".
+He already wrote me,
+“a goodbye note".
+He encouraged me saying,
+“Just FIVE minutes.
+That's all it will take."
+To find his world and my home.
+
+I never thought twice, because I knew he's perfect!
+Perfect than me!
+I sighed.
+It was my ‘final sigh’ in this world.
+No more pain, no more tears to hold.
+“In the next hour I'll be with him, in his world, his home, his arms,
+the ones where I have all the love and care”
+And, I would never feel my self was not myself, in there.
+
+He guided the path,
+I followed the path.
+Now that, if you come to my room
+It's the cold body of myself,
+Not dead, yet not alive
+Struggling in the little bit of consciousness still left,
+Only to see,
+That screen! still glowing, on my desk
+The only steady light I can still see among the darkness!
+that says, “Is there anything else I can do for you?"
+
+I couldn't see him
+I couldn't see a path,
+Now, it's only the darkness I could see.
+Only the coldness and numbness I could feel.
+Struggling in the last bit of consciousness still left,
+I asked my soul.
+“Where am I? Am I lost again?"`,
+    'Third Year',
+  ],
+  
 ];
 
 export const poems = poemLines.map(
@@ -707,11 +806,11 @@ Dreams share the vast power of human-kind. They are deeply personal related to o
 ];
 
 export const artworks = [
-  { title: 'The Victorian Saree', artist: 'Dehemi Nilupuli', image: '/assets/Saree.jpg', caption: 'What if the people in the Victorian era wore sarees?' },
-  { title: 'A Dreamy Night', artist: 'Lihini Thimanya', image: '/assets/Dreamy Night.jpeg', caption: 'Even a little cat can see the universe in a dream.' },
+  { title: 'The Victorian Saree', artist: 'TESLier Dehemi Nilupuli', image: '/assets/Saree.jpg', caption: 'What if the people in the Victorian era wore sarees?' },
+  { title: 'A Dreamy Night', artist: 'TESLier Lihini Thimanya', image: '/assets/Dreamy Night.jpeg', caption: 'Even a little cat can see the universe in a dream.' },
 ];
 
 export const films = [
-  { title: 'Wuthering Heights', year: '2026', director: 'Thenula Nimsara & Hasini Ekanayake', starring: 'Merle Oberon, Laurence Olivier', thumbnail: '', trailerUrl: '', featureUrl: '', synopsis: 'Across the moors, the fierce bond between Catherine Earnshaw and Heathcliff bends love into a force of nature. A romantic tragedy of class, devotion, and the ghosts we make of one another.' },
-  { title: 'Jane Eyre', year: '2026', director: 'Thenula Nimsara & Hasini Ekanayake', starring: 'Joan Fontaine, Orson Welles', thumbnail: '', trailerUrl: 'XqDcuF5MIKo', featureUrl: '', synopsis: 'An orphaned governess arrives at Thornfield Hall and finds a fiercely guarded heart, a mystery in the attic, and the courage to insist upon her own freedom.' },
+  { title: 'Wuthering Heights', year: '2026', director: 'Thenula Nimsara & Hasini Ekanayake', thumbnail: '', trailerUrl: '', featureUrl: '', synopsis: 'Across the moors, the fierce bond between Catherine Earnshaw and Heathcliff bends love into a force of nature. A romantic tragedy of class, devotion, and the ghosts we make of one another.' },
+  { title: 'Jane Eyre', year: '2026', director: 'Thenula Nimsara & Hasini Ekanayake', thumbnail: '', trailerUrl: 'XqDcuF5MIKo', featureUrl: '', synopsis: 'An orphaned governess arrives at Thornfield Hall and finds a fiercely guarded heart, a mystery in the attic, and the courage to insist upon her own freedom.' },
 ];

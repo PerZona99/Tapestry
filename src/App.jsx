@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { artworks, films, poems, prose } from "./data/content";
 
-const nav = ["Literature", "Prose", "Visual Arts", "Theatre", "About"];
+const nav = ["Literature", "Prose", "Visual Arts", "Theatre", "Committee", "About"];
 
 function useModal(item, setItem) {
   const closeButton = useRef(null);
@@ -72,8 +72,8 @@ function Modal({ item, setItem, kind, index, setIndex }) {
               : kind === "film"
                 ? `${item.year} · ${item.director}`
                 : kind === "prose"
-                  ? `${item.author} · ${item.type}`
-                  : item.author}
+                  ? `TESLier ${item.author} · ${item.type}`
+                  : `TESLier ${item.author}`}
           </p>
           <h2>
             {kind === "film" && item.view === "trailer"
@@ -129,17 +129,22 @@ function Hero({ active }) {
       />
       <img className="hero-flower" src="/assets/floral-spray.png" alt="" />
       <div className="hero-center">
-        <p className="hero-kicker">Established in the softest hour</p>
+        <p className="hero-kicker">Established in 2026</p>
         <h1>Tapestry</h1>
-        <p className="hero-subtitle">A literary salon for ink-stained hearts</p>
+        <p className="hero-subtitle">Where passion whispers and imagination comes alive</p>
         <img
           className="hero-illustration"
           src="/assets/hero-illustration.png?v=2"
           alt="An ornate Victorian book illustration"
         />
         <a href="#literature" className="wax-button">
-          Enter the salon <span>→</span>
+          Discover the Tapestry <span>→</span>
         </a>
+        <img
+          className="association-banner"
+          src="/assets/September%20flyers%20.png"
+          alt="TESL Students' Association, University of Kelaniya"
+        />
       </div>
     </section>
   );
@@ -162,8 +167,8 @@ function Literature({ onOpen }) {
     <section id="literature" className="paper-section">
       <SectionTitle
         overline="The Poetry Cabinet"
-        title="Literature"
-        text="Twenty small worlds, written for the pocket of your evening."
+        title="Verses"
+        text="Where words bloom into emotions and stories unfold in verse."
       />
       <div className="section-decor literature-decor" aria-hidden="true">
         <img className="decor-angel" src="/assets/Angel.png" alt="" />
@@ -196,7 +201,7 @@ function Literature({ onOpen }) {
           >
             <div>
               <h3>{poem.title}</h3>
-              <p className="byline">by {poem.author}</p>
+              <p className="byline">by TESLier {poem.author}</p>
               <blockquote>{poem.excerpt}</blockquote>
             </div>
             <button onClick={() => onOpen(poem)} className="read-more">
@@ -240,7 +245,7 @@ function Prose({ onOpen }) {
           <article className="prose-card reveal" key={entry.title}>
             <p className="card-tag">{entry.type}</p>
             <h3>{entry.title}</h3>
-            <p className="byline">{entry.author}</p>
+            <p className="byline">TESLier {entry.author}</p>
             <p>{entry.excerpt}</p>
             <button onClick={() => onOpen(entry)}>
               Open the pages <span>→</span>
@@ -258,7 +263,7 @@ function Arts({ onOpen }) {
       <SectionTitle
         overline="The Picture Gallery"
         title="Visual Arts"
-        text="Five visions gathered from the visible and the imagined."
+        text="Where creativity comes alive through colors, shapes, and imagination."
       />
       <div className="gallery">
         {artworks.map((art, i) => (
@@ -277,6 +282,9 @@ function Arts({ onOpen }) {
           </button>
         ))}
       </div>
+      <p className="gallery-scroll-hint" aria-hidden="true">
+        <span>Swipe to explore</span> <b>→</b>
+      </p>
     </section>
   );
 }
@@ -366,25 +374,90 @@ function About() {
         />
         <img className="decor-cloud" src="/assets/cloud.png" alt="" />
       </div>
-      <SectionTitle overline="A Note from the Editor" title="About the Salon" />
+      <SectionTitle overline="Note from the Editorial Team" title="About the Tapestry" />
       <div className="ink-wrap reveal">
         <img src="/assets/ink-drop.png" alt="" />
         <div className="ink-copy">
           <p>
-            Tapestry is a small, imaginary salon for poems read twice, stories
-            told softly, and artworks that linger in the mind like perfume.
+            Tapestry is a celebration of words, imagination, and creativity, presented by the  TESL Students’ Association, Department of English Language Teaching, University of Kelaniya for Literacy Month.
           </p>
           <p>
-            We believe in the slow turning of pages, in the drama of a curtain
-            opening, and in the private worlds a single sentence can unfurl.
+            Within these pages, you will find poems, prose, visual artworks, and theatrical pieces, each offering a distinct thread of thought and expression.
           </p>
-          <span>
-            Yours in ink &amp; wonder,
-            <br />
-            <b>The Editorial Circle</b>
-          </span>
+          <p>
+            We believe in the quiet power of literature: Joy that speaks to the soul, profound healing, and limitless creative imagination.
+          </p>
+          <p>
+            May you find something here that speaks to you, stays with you, and inspires your own creative journey.
+          </p>
+          <p>
+            Behind every page of Tapestry is a dedicated team of individuals who came together with passion and creativity. This collection is a reflection of their collective effort, woven together to create a tapestry of diverse voices, ideas, and imagination.
+          </p>
         </div>
       </div>
+    </section>
+  );
+}
+
+function Committee() {
+  const teams = [
+    {
+      title: "Public Relations Team",
+      members: [
+        "TESLier Thenula Nimsara Thilakarathna",
+        "TESLier Kavinhara Yatawarage",
+        "TESLier Rathsara Induwari Jayasekara",
+        "TESLier Hiruni Himaya De Silva",
+        "TESLier Himavi Thara Minhari",
+      ],
+    },
+    {
+      title: "Editorial Team",
+      members: [
+        "TESLier Ayodhya Basnayake",
+        "TESLier Panchalee Wijesooriya",
+        "TESLier Farha Faazil",
+        "TESLier Bhagya Ransiluni",
+        "TESLier Ithara De Silva",
+        "TESLier Amodya Maheshi",
+        "TESLier Niuni Yashodhara",
+      ],
+    },
+  ];
+  const executives = [
+    "Senior Treasurer - Ms. Shezmin Wazeer",
+    "President - TESLier Chamishka Amarasinghe",
+    "Secretary - TESLier M.I.F. Nushka",
+    "Vice President - TESLier Themiya Rambukwella",
+    "Assistant Secretary - TESLier Samali Dharmasena",
+    "Junior Treasurer - TESLier Anuththara Ramanayaka",
+    "Public Relations Team Head - TESLier Hasini Ekanayake",
+    "Editorial Team Head - TESLier Hansamali Sugathadasa",
+  ];
+
+  return (
+    <section id="committee" className="committee-section">
+      <SectionTitle
+        overline="The People Behind the Pages"
+        title="Committee Members"
+        text="A gathering of the voices, care, and craft that bring Tapestry to life."
+      />
+      <div className="committee-grid">
+        {teams.map((team) => (
+          <article className="committee-card reveal" key={team.title}>
+            <h3>{team.title}</h3>
+            <ul>
+              {team.members.map((member) => <li key={member}>{member}</li>)}
+            </ul>
+          </article>
+        ))}
+      </div>
+      <article className="committee-card committee-executive reveal">
+        <h3>Executive Committee</h3>
+        <ul>
+          {executives.map((member) => <li key={member}>{member}</li>)}
+        </ul>
+      </article>
     </section>
   );
 }
@@ -404,7 +477,7 @@ function Footer() {
             </a>
           ))}
         </nav>
-        <p>© 2026 Tapestry · Made for lingering</p>
+        <p>© 2026 Tapestry</p>
       </div>
     </footer>
   );
@@ -479,6 +552,7 @@ export default function App() {
           onOpen={(film, view) => setModal({ ...film, kind: "film", view })}
         />
         <About />
+        <Committee />
       </main>
       <Footer />
       <Modal
