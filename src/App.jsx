@@ -546,6 +546,12 @@ export default function App() {
       <main>
         <Hero active={active} />
         <Literature onOpen={(p) => setModal({ ...p, kind: "poem" })} />
+        <div className="tablet-association-banner" aria-hidden="true">
+          <img
+            src="/assets/September%20flyers%20.png"
+            alt=""
+          />
+        </div>
         <Prose onOpen={(p) => setModal({ ...p, kind: "prose" })} />
         <Arts onOpen={openArt} />
         <Theatre
