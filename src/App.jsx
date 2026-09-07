@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { artworks, films, poems, prose } from "./data/content";
 
-const nav = ["Literature", "Prose", "Visual Arts", "Theatre", "Committee", "About"];
+const nav = ["Literature", "Prose", "Visual Arts", "Theatre", "About", "Committee"];
 
 function useModal(item, setItem) {
   const closeButton = useRef(null);
