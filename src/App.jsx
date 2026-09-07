@@ -83,11 +83,6 @@ function Modal({ item, setItem, kind, index, setIndex }) {
           <p className="modal-body">
             {item.body || item.caption || item.synopsis}
           </p>
-          {kind === "film" && (
-            <p className="credits">
-              <b>Starring</b> {item.starring}
-            </p>
-          )}
         </div>
         {hasCarousel && (
           <div className="modal-nav">
