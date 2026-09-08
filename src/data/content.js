@@ -812,5 +812,5 @@ export const artworks = [
 
 export const films = [
   { title: 'Wuthering Heights', year: '2026', director: 'Thenula Nimsara & Hasini Ekanayake', thumbnail: '/assets/WH_thumbnail.jpeg', trailerUrl: 'T3Day1OFWJU', featureUrl: 'HPoltXvNCX4', synopsis: 'Across the moors, the fierce bond between Catherine Earnshaw and Heathcliff bends love into a force of nature. A romantic tragedy of class, devotion, and the ghosts we make of one another.' },
-  { title: 'Jane Eyre', year: '2026', director: 'Thenula Nimsara & Hasini Ekanayake', thumbnail: '/assets/JE_thumbnail.png', trailerUrl: 'uRL0-nxsm00', featureUrl: '2ynVs9TVWZA', synopsis: 'An orphaned governess arrives at Thornfield Hall and finds a fiercely guarded heart, a mystery in the attic, and the courage to insist upon her own freedom.' },
+  { title: 'Jane Eyre', year: '2026', director: 'Thenula Nimsara & Hasini Ekanayake', thumbnail: '/assets/JE_thumbnail.png', trailerUrl: 'uRL0-nxsm00', featureUrl: 'YLdBIWrw5Y0', synopsis: 'An orphaned governess arrives at Thornfield Hall and finds a fiercely guarded heart, a mystery in the attic, and the courage to insist upon her own freedom.' },
 ];
